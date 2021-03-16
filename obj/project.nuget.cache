@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8wIGAjtViUBkr/q2UII3P617IRUBKlE7tSd2thjYuDjrZTidy9xJXeYFP0UHX8qJOGWBxg7ies9MVzEmAu6Lw==",
+  "success": true,
+  "projectFilePath": "/Users/Peeranat/Desktop/networkprogram/hw3/CPE433-62/DNWS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.0/microsoft.extensions.configuration.fileextensions.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.configuration.json/3.1.0/microsoft.extensions.configuration.json.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.0/microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.0/microsoft.extensions.fileproviders.physical.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.0/microsoft.extensions.filesystemglobbing.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/Peeranat/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
